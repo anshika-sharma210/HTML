@@ -1,0 +1,74 @@
+/* CSS Reset */
+body{
+    font-family: 'Baloo Bhai',cursive;
+    margin: 0px;
+    padding: 0px;
+    background: url("199174-Philadelphia-HDR-indoors-table-chair-restaurant");
+}
+
+.mid{
+    display: block;
+    width: 70%;
+    margin: 70px auto;
+   /* border: 2px solid green; */
+}
+.right {
+    position: absolute;
+    right: 34px;
+    top: 43px;
+    display: inline-block;
+    /* border: 2px solid yellow; */
+}
+.navbar {
+    display: inline-block;
+}
+.navbar li {
+    display: inline-block;
+    font-size: 25px;
+}
+.navbar li a {
+    color: black;
+    text-decoration: none;
+    padding; 20px 19px;
+}
+.navbar li a:hover,.navbar li a.active {
+    text-decoration: underline;
+    color:blue;
+}btn:hover {
+    background-color: rgb(31,30,30);
+}
+.btn {
+    font-family: 'Baloo Bhai', cursive;
+    margin: 0px 9px;
+    background-color: black;
+    color: white;;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.
+
+.container {
+    
+    margin: 106px 80px;
+    padding: 75px;
+    width: 33%;
+    border-radius: 28px;
+}
+
+
+
+.container h1 {
+    text-align: center;
+}
+
+.container button {
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+}
+</style>
+
+<body>
